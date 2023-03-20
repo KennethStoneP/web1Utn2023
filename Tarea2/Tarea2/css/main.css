@@ -5,7 +5,13 @@ img{
 
 i{
     margin-left: 5%;}
+a{
+    text-transform:none !important;}
 
+
+body{
+    margin: -1%;
+    margin-bottom: -2%;}
 
 ::placeholder{
     padding: 10px;
@@ -21,7 +27,8 @@ i{
     background-color: #00acee;}
 
 .btn-Google{
-    background-color: #db4a39;}
-    
+    background-color: #db4a39;}    
+
 .forget-password{
     text-align: right;}
+
