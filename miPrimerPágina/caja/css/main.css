@@ -1,0 +1,19 @@
+h2,p,span,li,a{
+    background-color:blueviolet;
+    border:1px solid;
+}
+#item1{
+    margin-bottom: 10px;
+    width:150px ;
+    padding-top: 10px;
+}
+
+
+#item2{
+    margin-left: 10px;
+    display: block;
+}
+h2{
+    display: inline;
+    margin: 0px auto;
+}

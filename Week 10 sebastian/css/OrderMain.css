@@ -1,12 +1,11 @@
 body{
-    background-image: url("/Images/Fondo.jpg");
+    background-image: url("/Week 10/Images/Fondo.jpg");
 }
 
 .CarLogo{
     height: 120px;
     width: 120px;
 }
-
 
 .car{
     padding-left: 50px;
@@ -40,27 +39,26 @@ footer{
 }
 
 .ex{
-    width: 600px;
-    height: 100px;
+    width: 700px;
+    height: 200px;
     margin: 0px 0px 0px 25%;
-    padding-top: 0px;
+    padding-top: 40px;
 }
 
 div.sticky {
     position:static;
 }
 
-.buttons1{
+.codingeek{
+    background-color: #111f70; 
     width: 180px; 
-    height: 60px; 
+    height: 43px; 
     align-content: center;
 }
 
-.texto{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-}
-footer{
-    margin-top: 10%;
+.buynow{
+    background-color: white; 
+    width: 180px; 
+    height: 43px; 
+    align-content: center;
 }
