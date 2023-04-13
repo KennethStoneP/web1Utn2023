@@ -1,0 +1,9 @@
+.home{
+    margin: auto;
+    background: url(/LWP/Images/Books.jpg) no-repeat center;
+    background-size: cover;
+    height: 400px;
+    align-items: center;
+    opacity: 0.8;
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS FORM VALIDACION</title>
+    <link rel="stylesheet" href="/week12/css/style.css">
+</head>
+<body onload="mensaje('hola')">
+
+        <form onsubmit="return validar()">
+
+            <div class="caja">
+                <label>Nombre:</label>
+                <input type="text" id="nombre">
+            </div>
+            <div class="caja">
+                <label>Apellido1:</label>
+                <input type="text" id="apellido1">
+            </div>
+            <div class="caja">
+                <label>Apellido1:</label>
+                <input type="text" id="apellido2">
+            </div>
+            <div class="caja">
+                <label>edad:</label>
+                <input type="text" id="edad">
+            </div>
+            <div class="caja">
+                <label>Color Favorite:</label>
+                <select name="" id="color">
+                    <option value="">Seleccione una opcion</option>
+                    <option value="1">Red</option>
+                    <option value="2">Blue</option>
+                    <option value="3">Green</option>
+
+                </select>
+            </div>
+            <div class="caja">
+                <label>correo:</label>
+                <input type="text" id="correo">
+            </div>
+         
+         
+         
+
+        <input type="submit" value="Guardar">
+
+    </form>
+    <button onclick="alert(calcular(5,15))">Pick me, choose me, love me</button>
+
+
+    <script src="/week12/js/index.js"></script>
+    
+</body>
+</html>
