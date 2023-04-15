@@ -1,6 +1,5 @@
 #colFechaNac{
     background-color: darkolivegreen;
-
 }
 *{
     color:lightgray;
@@ -11,8 +10,14 @@ td{
 
 }
 
+
+#tx{
+    background-color: darkgray;
+
+}
+
 .tabla1{
-    color:dimgrey;
+    color:darkorange;
     background-color:darkblue;
     border-style: ridge;
     margin-top: 20px;
@@ -20,6 +25,11 @@ td{
 .tabla2{
     color: antiquewhite;
     background-color: darkseagreen;
-    border-style: groove;
+    border-style:hidden;
     margin-top: 20px;
+}
+.tabla3{
+    background-color: darkslategrey;
+    margin-top: 20px;
+    border-style:none;
 }
