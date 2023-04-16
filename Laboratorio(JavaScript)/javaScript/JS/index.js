@@ -118,7 +118,7 @@ if (penguinsFeet.length !== 0) {
 
 gunter.favoriteFoods = ["fish", "krill", "squid"];
 ramon.favoriteFoods = ["shrimp", "squid", "fish"];
-fred.favoriteFoods = ["bread", "lettuce", "crackers"];
+fred.favoriteFoods = ["crustacean", "shrimp", "squid"];
 
 //--------------------------------------------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------
